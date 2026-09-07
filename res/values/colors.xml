@@ -30,4 +30,10 @@
 
     <color name="widget_label_color">@color/white</color>
     <color name="widget_label_color_dark">@color/black</color>
+
+    <!-- Xephira & OnePlus Signature Brand Colors -->
+    <color name="xephira_crimson">#E60026</color>
+    <color name="oneplus_red">#E60026</color>
+    <color name="aether_cyan">#00F2FE</color>
+    <color name="obsidian_glass_surface">#141824</color>
 </resources>
